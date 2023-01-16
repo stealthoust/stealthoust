@@ -1,6 +1,6 @@
-### Hi World 👋
+### Hello World 👋
 Welcome to my portfolio! As a computer science student, I have experience in programming with Java, Spring, Angular, Node.js, TypeScript and many others. I have used these technologies to create a variety of projects, including web, desktop and mobile applications. I enjoy learning and discovering new technologies.
-**stealthoust/stealthoust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
