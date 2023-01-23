@@ -38,5 +38,11 @@ Welcome to my portfolio! As a computer science student, I have experience in pro
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="Android" width="30px"
      style="max-width: 100%;">
 
-<br>
 
+
+
+<br/>
+
+<br/>
+
+![MyTopStats](https://github-readme-stats.vercel.app/api/top-langs/?username=stealthoust&layout=compact&theme=dark)
